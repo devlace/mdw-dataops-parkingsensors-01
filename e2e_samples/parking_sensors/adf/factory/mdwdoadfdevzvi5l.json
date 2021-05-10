@@ -1,0 +1,9 @@
+{
+	"name": "mdwdoadfdevzvi5l",
+	"location": "australiaeast",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "3845d519-af13-4681-8470-ca28e9ac417f",
+		"tenantId": "72f988bf-86f1-41af-91ab-2d7cd011db47"
+	}
+}
